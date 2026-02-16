@@ -1,0 +1,8 @@
+{
+  "name": "Byan AI Systems - Enterprise Solutions",
+  "description": "A high-performance, professional enterprise website for Byan AI Systems, featuring interactive AI consultations powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
